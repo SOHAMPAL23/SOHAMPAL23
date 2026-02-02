@@ -1,100 +1,133 @@
-<h1 align="center">Soham Pal</h1>
-<p align="center">
-  Full-Stack Engineer • Open-Source Contributor • Systems-Driven Thinker
-</p>
+## Hi 👋 I'm Soham Pal
 
-<p align="center">
-  <a href="mailto:sohampal.dev@gmail.com">Email</a> •
-  <a href="https://github.com/SohamPal">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=555555&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Machine+Learning+and+Full-Stack+Development;" 
+    alt="Typing SVG" 
+  />
+</div>
 
 ---
 
-## About
+I’m a Computer Science undergraduate (AI & ML)*.  
+I enjoy working on **practical software systems**, especially where **data, correctness, and reliability** matter.
 
-I build **scalable, production-grade web systems** with a strong emphasis on **clean architecture, testing, and long-term maintainability**.
-
-My work spans **full-stack development**, **automation**, and **open-source engineering**, with a growing focus on **system design and distributed systems**.
-
-I prefer solving **hard problems** over shipping quick hacks.
+Most of my work involves **Python**, **machine learning**, **backend logic**, and **full-stack applications**, with a strong focus on clarity and maintainability.
 
 ---
 
-## Current Focus
+### Technical Skills
 
-- Designing and shipping **advanced MERN stack applications**
-- Building **real-time collaborative platforms**
-- Writing **reliable test automation** (E2E & CI-driven)
-- Studying **system design** and backend scalability
+**Languages**  
+Python · Java · JavaScript · Kotlin · C/C++
 
----
+**Machine Learning & Data**  
+Scikit-learn · Pandas · NumPy · Data preprocessing · Model evaluation
 
-## Technical Skills
+**Web & Backend**  
+React · Node.js · Express · MongoDB  
+REST APIs · Authentication · Role-based access
 
-**Programming**
-- JavaScript (ES6+), Java, Kotlin
+**Testing & Quality**  
+Selenium (Java) · TestNG · Cypress  
+E2E testing · CI workflows
 
-**Frontend**
-- React.js
-- Modern component patterns
-- Design systems (Carbon)
-
-**Backend**
-- Node.js, Express
-- RESTful APIs
-- GraphQL (in progress)
-
-**Databases**
-- MongoDB, MySQL
-
-**Testing & Quality**
-- Cypress
-- Selenium
-- TestNG
-- CI/CD pipelines
-
-**Engineering Practices**
-- Clean architecture
-- Git-based workflows
-- Code reviews
-- Documentation-first mindset
+**Tools**  
+Git · GitHub · Linux · GitHub Actions
 
 ---
 
-## Open Source & Collaboration
+### Selected Projects
 
-I actively contribute to and collaborate on **open-source projects** that value:
-- Code quality over speed
-- Good documentation
-- Meaningful impact
-
-If you're building something **serious and challenging**, I’m open to collaborating.
-
----
-
-## What You Can Ask Me About
-
-- Full-stack application design
-- React architecture & performance
-- Backend API design
-- Test automation strategies
-- Open-source contribution workflows
+**Credit AI Score**  
+🔗 https://github.com/SOHAMPAL23/Credit-AI-Score  
+A machine learning system to predict creditworthiness using structured financial data.
+- Data preprocessing and feature engineering
+- Model training and evaluation
+- Focus on explainability and real-world applicability
 
 ---
 
-## Philosophy
-
-> “Build things that still make sense six months later.”
-
-I value **clarity, discipline, and fundamentals**—both in code and in engineering decisions.
-
----
-
-## Contact
-
-📧 **sohampal.dev@gmail.com**
+**Data Quality WatchTower**  
+🔗 https://github.com/SOHAMPAL23/Data-Quality-WatchTower-  
+A monitoring system designed to detect data inconsistencies and quality issues.
+- Validation rules and anomaly detection
+- Designed for continuous data checks
+- Emphasis on reliability and correctness
 
 ---
 
-⭐ If you find my work useful, consider starring a repository or reaching out.
+**Heart Disease Risk Predictor**  
+🔗 https://github.com/SOHAMPAL23/Heart-Disease-Risk-Predictor  
+A predictive model to estimate heart disease risk based on medical attributes.
+- Clean data handling and preprocessing
+- Classification models with evaluation metrics
+- Built with clarity and reproducibility in mind
+
+---
+
+**California Housing Price Prediction**  
+🔗 https://github.com/SOHAMPAL23/California-Housing-Prediction  
+A regression-based machine learning project using the California housing dataset.
+- Feature scaling and data analysis
+- Model comparison and performance tuning
+- Clear separation of data, logic, and evaluation
+
+---
+
+**Pricer**  
+🔗 https://github.com/SOHAMPAL23/Pricer  
+A pricing-focused application exploring structured logic and backend design.
+- Core logic implemented with simplicity and extensibility
+- Emphasis on correctness and modularity
+
+---
+
+**AI Code Collaborator**  
+🔗 https://github.com/SOHAMPAL23/AI-Code-Collaborator  
+A real-time collaborative coding platform with AI-assisted features.
+- WebSocket-based real-time communication
+- Role-based access control
+- Backend architecture and system design focus
+
+---
+
+### Collaboration & Contributions
+
+- Comfortable working with pull requests and code reviews  
+- Experience understanding and modifying existing codebases  
+- Prefer small, well-scoped changes with clear intent  
+- Value readable code and meaningful commit history  
+
+(Active pull requests and discussions can be found in the repositories.)
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SOHAMPAL23&show_icons=true&theme=default&hide_border=true" height="150" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SOHAMPAL23&theme=default&hide_border=true" height="150" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SOHAMPAL23&theme=github-light&hide_border=true" />
+
+</div>
+
+---
+
+### Contact
+
+- GitHub: https://github.com/SOHAMPAL23  
+- LinkedIn: https://www.linkedin.com/in/soham-pal  
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=eeeeee&height=3" />
+</div>
