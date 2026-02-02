@@ -9,7 +9,7 @@
 
 ---
 
-I’m a Computer Science undergraduate (AI & ML)*.  
+I’m a Computer Science undergraduate (AI & ML).  
 I enjoy working on **practical software systems**, especially where **data, correctness, and reliability** matter.
 
 Most of my work involves **Python**, **machine learning**, **backend logic**, and **full-stack applications**, with a strong focus on clarity and maintainability.
