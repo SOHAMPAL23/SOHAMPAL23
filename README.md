@@ -1,133 +1,118 @@
-## Hi 👋 I'm Soham Pal
-
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=555555&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Machine+Learning+and+Full-Stack+Development;" 
-    alt="Typing SVG" 
-  />
-</div>
-
----
-
-I’m a Computer Science undergraduate (AI & ML).  
-I enjoy working on **practical software systems**, especially where **data, correctness, and reliability** matter.
-
-Most of my work involves **Python**, **machine learning**, **backend logic**, and **full-stack applications**, with a strong focus on clarity and maintainability.
-
----
-
-### Technical Skills
-
-**Languages**  
-Python · Java · JavaScript · Kotlin · C/C++
-
-**Machine Learning & Data**  
-Scikit-learn · Pandas · NumPy · Data preprocessing · Model evaluation
-
-**Web & Backend**  
-React · Node.js · Express · MongoDB  
-REST APIs · Authentication · Role-based access
-
-**Testing & Quality**  
-Selenium (Java) · TestNG · Cypress  
-E2E testing · CI workflows
-
-**Tools**  
-Git · GitHub · Linux · GitHub Actions
-
----
-
-### Selected Projects
-
-**Credit AI Score**  
-🔗 https://github.com/SOHAMPAL23/Credit-AI-Score  
-A machine learning system to predict creditworthiness using structured financial data.
-- Data preprocessing and feature engineering
-- Model training and evaluation
-- Focus on explainability and real-world applicability
-
----
-
-**Data Quality WatchTower**  
-🔗 https://github.com/SOHAMPAL23/Data-Quality-WatchTower-  
-A monitoring system designed to detect data inconsistencies and quality issues.
-- Validation rules and anomaly detection
-- Designed for continuous data checks
-- Emphasis on reliability and correctness
-
----
-
-**Heart Disease Risk Predictor**  
-🔗 https://github.com/SOHAMPAL23/Heart-Disease-Risk-Predictor  
-A predictive model to estimate heart disease risk based on medical attributes.
-- Clean data handling and preprocessing
-- Classification models with evaluation metrics
-- Built with clarity and reproducibility in mind
-
----
-
-**California Housing Price Prediction**  
-🔗 https://github.com/SOHAMPAL23/California-Housing-Prediction  
-A regression-based machine learning project using the California housing dataset.
-- Feature scaling and data analysis
-- Model comparison and performance tuning
-- Clear separation of data, logic, and evaluation
-
----
-
-**Pricer**  
-🔗 https://github.com/SOHAMPAL23/Pricer  
-A pricing-focused application exploring structured logic and backend design.
-- Core logic implemented with simplicity and extensibility
-- Emphasis on correctness and modularity
-
----
-
-**AI Code Collaborator**  
-🔗 https://github.com/SOHAMPAL23/AI-Code-Collaborator  
-A real-time collaborative coding platform with AI-assisted features.
-- WebSocket-based real-time communication
-- Role-based access control
-- Backend architecture and system design focus
-
----
-
-### Collaboration & Contributions
-
-- Comfortable working with pull requests and code reviews  
-- Experience understanding and modifying existing codebases  
-- Prefer small, well-scoped changes with clear intent  
-- Value readable code and meaningful commit history  
-
-(Active pull requests and discussions can be found in the repositories.)
-
----
-
-### GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SOHAMPAL23&show_icons=true&theme=default&hide_border=true" height="150" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Soham%20Pal&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergraduate%20·%20AI%2FML%20·%20Backend%20Systems&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SOHAMPAL23&theme=default&hide_border=true" height="150" />
+<br/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+Reliable+Software+Systems;Machine+Learning+%7C+Backend+%7C+Full-Stack;Correctness+%C2%B7+Reliability+%C2%B7+Scalability" alt="Typing SVG" />
 
-<div align="center">
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SOHAMPAL23&theme=github-light&hide_border=true" />
+<a href="https://www.linkedin.com/in/soham-pal">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/SOHAMPAL23">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-### Contact
+## 👨‍💻 About Me
 
-- GitHub: https://github.com/SOHAMPAL23  
-- LinkedIn: https://www.linkedin.com/in/soham-pal  
+<table>
+  <tr>
+    <td>🎓 <strong>Degree</strong></td>
+    <td>CS Undergraduate — AI & ML Specialization</td>
+  </tr>
+  <tr>
+    <td>🔭 <strong>Focus</strong></td>
+    <td>Machine Learning · Backend Systems · System Design</td>
+  </tr>
+  <tr>
+    <td>🛠️ <strong>Approach</strong></td>
+    <td>Production-quality code · Testable architecture · Real-world impact</td>
+  </tr>
+  <tr>
+    <td>💡 <strong>Principles</strong></td>
+    <td>Correctness → Reliability → Maintainability</td>
+  </tr>
+  <tr>
+    <td>🌱 <strong>Currently</strong></td>
+    <td>Deepening ML systems knowledge & building backend projects</td>
+  </tr>
+</table>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**ML & Data**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Backend & Web**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Testing & DevOps**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SOHAMPAL23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAMPAL23&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=SOHAMPAL23&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SOHAMPAL23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=eeeeee&height=3" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=SOHAMPAL23&color=a78bfa&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+*"Good software is built twice — first in thought, then in code."*
+
 </div>
